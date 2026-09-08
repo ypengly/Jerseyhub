@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" fill="#1a1d24"/>
+  <path d="M120 60 L160 40 L200 55 L240 40 L280 60 L320 100 L290 140 L270 120 L270 460 L130 460 L130 120 L110 140 L80 100 Z" fill="#2a2f3a" stroke="#e11d3a" stroke-width="4"/>
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="28" fill="#6b7280" text-anchor="middle">JERSEY</text>
+</svg>
